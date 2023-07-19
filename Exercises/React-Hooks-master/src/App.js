@@ -1,4 +1,4 @@
-import Inizio from "./lezioni/1-useState/inizio/jsArrayProva";
+import Inizio from "./lezioni/1-useState/4-useState.object";
 
 function App() {
   return (
